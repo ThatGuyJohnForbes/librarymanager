@@ -3,7 +3,7 @@ A Python script designed to automatically rename and edit the metadata of large 
 
 # Dependancies
 * ffmpeg
-## pip packages:
+#### pip packages:
 * python-decouple
 * tmdbv3api
 
